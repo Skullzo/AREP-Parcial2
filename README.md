@@ -85,11 +85,11 @@ Para comprobar que la página web ha sido desplegada con éxito de manera local 
 ----------
 
 ### AWS
-Para comprobar que la página web ha sido desplegada con éxito utilizando AWS, y calcular el ArcoTangente del valor ingresado (en este caso será 90) se ingresa en el navegador la siguiente URL: http://localhost:3456/atan?value=90. Como se puede observar, el contenedor ha sido desplegado satisfactoriamente en AWS.
+Para comprobar que la página web ha sido desplegada con éxito utilizando AWS, y calcular el ArcoTangente del valor ingresado (en este caso será 90) se ingresa en el navegador la siguiente URL: http://ec2-54-165-148-36.compute-1.amazonaws.com:8000/atan?value=90. Como se puede observar, el contenedor ha sido desplegado satisfactoriamente en AWS.
 
 ![img](https://github.com/Skullzo/AREP-Parcial2/blob/main/img/AWSS1.PNG)
 
-Para comprobar que la página web ha sido desplegada con éxito utilizando AWS, y calcular el Logaritmo del valor ingresado (en este caso será 50) se ingresa en el navegador la siguiente URL: http://localhost:3456/log?value=50. Como se puede observar, el contenedor ha sido desplegado satisfactoriamente en AWS.
+Para comprobar que la página web ha sido desplegada con éxito utilizando AWS, y calcular el Logaritmo del valor ingresado (en este caso será 50) se ingresa en el navegador la siguiente URL: http://ec2-54-165-148-36.compute-1.amazonaws.com:8000/log?value=50. Como se puede observar, el contenedor ha sido desplegado satisfactoriamente en AWS.
 
 ![img](https://github.com/Skullzo/AREP-Parcial2/blob/main/img/AWSS2.PNG)
 
