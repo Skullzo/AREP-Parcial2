@@ -74,13 +74,13 @@ Para verificar que en la aplicación Docker se hayan desplegado con éxito los c
 
 ![img](https://github.com/Skullzo/AREP-Parcial2/blob/main/img/Docker1.PNG)
 
-Para comprobar que la página web ha sido desplegada con éxito de manera local utilizando Docker, y calcular el ArcoTangente del valor ingresado (en este caso será 90) se ingresa en el navegador la siguiente URL: http://localhost:3456/atan?value=90. Como se puede observar, el contenedor ha sido desplegado satisfactoriamente de manera local utilizando Docker.
+Para comprobar que la página web ha sido desplegada con éxito de manera local utilizando Docker, y calcular el ArcoTangente del valor ingresado (en este caso será 90) se ingresa en el navegador la siguiente URL: http://localhost:8000/atan?value=90. Como se puede observar, el contenedor ha sido desplegado satisfactoriamente de manera local utilizando Docker.
 
-![img](https://github.com/Skullzo/AREP-Parcial2/blob/main/img/Docker2.PNG)
+![img](https://github.com/Skullzo/AREP-Parcial2/blob/main/img/Docker22.PNG)
 
-Para comprobar que la página web ha sido desplegada con éxito de manera local utilizando Docker, y calcular el Logaritmo del valor ingresado (en este caso será 50) se ingresa en el navegador la siguiente URL: http://localhost:3456/log?value=50. Como se puede observar, el contenedor ha sido desplegado satisfactoriamente de manera local utilizando Docker.
+Para comprobar que la página web ha sido desplegada con éxito de manera local utilizando Docker, y calcular el Logaritmo del valor ingresado (en este caso será 50) se ingresa en el navegador la siguiente URL: http://localhost:8000/log?value=50. Como se puede observar, el contenedor ha sido desplegado satisfactoriamente de manera local utilizando Docker.
 
-![img](https://github.com/Skullzo/AREP-Parcial2/blob/main/img/Docker3.PNG)
+![img](https://github.com/Skullzo/AREP-Parcial2/blob/main/img/Docker33.PNG)
 
 ----------
 
