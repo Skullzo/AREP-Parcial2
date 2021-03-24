@@ -11,6 +11,7 @@ Diseñe, construya y despliegue los siguientes servicios en un microcontenedor d
 7. atan
 8. sqrt
 9. exp (el número de eauler elevado ala potendia del parámetro)
+
 Implemente los servicios para responder al método de solicitud HTTP GET. Deben usar el nombre de la función especificado en la lista y el parámetro debe ser pasado en la variable de query con nombre "value".
 Ejemplo de una llamado:
 https://amazonxxx.x.xxx.x.xxx:{port}/cos?value=3.141592
