@@ -13,14 +13,19 @@ Diseñe, construya y despliegue los siguientes servicios en un microcontenedor d
 9. exp (el número de eauler elevado ala potendia del parámetro)
 
 Implemente los servicios para responder al método de solicitud HTTP GET. Deben usar el nombre de la función especificado en la lista y el parámetro debe ser pasado en la variable de query con nombre "value".
+
 Ejemplo de una llamado:
+
 https://amazonxxx.x.xxx.x.xxx:{port}/cos?value=3.141592
+
 Salida. El formato de la salida y la respuesta debe ser un JSON con el siguiente formato
+
 {
  "operation": "cos",
  "input":  3.141592,
  "output":  -0.999999
 }
+
 ## Prerrequisitos
 Para la realización y ejecución tanto del programa como de las pruebas de este, se requieren ser instalados los siguientes programas:
 * [Maven](https://maven.apache.org/). Herramienta que se encarga de estandarizar la estructura física de los proyectos de software, maneja dependencias (librerías) automáticamente desde repositorios y administra el flujo de vida de construcción de un software.
